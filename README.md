@@ -3,11 +3,10 @@
 It seems you've found my git profile... welcome!
 
 - 👩🏼‍🎓 I just graduated from Northeastern University with a B.S. in CE/CS
-- 🌱 I'm currently self-developing my HTML, CSS, and JavaScript skills
 - 🚧 I’m working on getting my [personal website](https://msagle.github.io/personalWebsite/) up and running
-- 👷🏼‍♀️ I’m also working on a project called [cooking accomplice](https://github.com/msagle/cookingaccomplice)
+- 🌱 I’m also (slowly) working on a project called [cooking accomplice](https://github.com/msagle/cookingaccomplice)
 - ⛸️ I'm a retired competitive figure skater
-- 💻 I’m open to software commission & employment! 
+- 💻 I’m open to software commission! 
 ***
 👩🏼‍💻 **Languages**
 
